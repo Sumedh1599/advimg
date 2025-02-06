@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+advimg.egg-info/PKG-INFO
+advimg.egg-info/SOURCES.txt
+advimg.egg-info/dependency_links.txt
+advimg.egg-info/requires.txt
+advimg.egg-info/top_level.txt
+tests/test_advimg.py
